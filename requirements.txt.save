@@ -1,0 +1,31 @@
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Database
+sqlalchemy==2.0.23
+pymysql==1.1.0
+alembic==1.13.1
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# Google Vision API
+google-cloud-vision==3.5.0
+
+# Email Service
+sendgrid==6.11.0
+
+# Image Processing
+pillow==10.1.0
+
+# Data Validation
+pydantic==2.5.2
+
+# File Upload Handling
+werkzeug==3.0.1
+
+# Date/Time Utilities
+python-dateutil==2.8.2
